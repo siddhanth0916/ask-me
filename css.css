@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+
+#start-btn
+{
+    width: 40%;
+    
+} 
+
+#web{
+    font-family: 'Special Elite', cursive;
+}
+#pas{
+    font-family: 'Special Elite', cursive; 
+}
+#webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    font-family: 'Special Elite', cursive;
+}
+.heading {
+    font-family: 'Dynalight', cursive;
+    font-size: 30px;
+    background-color: rgb(174, 255, 0);
+}
+.mac{
+    font-size: 23px;
+width: 1000px;
+margin: 0px;
+color: blue;
+font-family: 'Special Elite', cursive;
+}
+.hem{
+    font-family: 'Dynalight', cursive;
+    font-size: 30px;
+    background-color: chocolate;
+}
+
+    
